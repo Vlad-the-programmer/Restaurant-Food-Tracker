@@ -25,4 +25,4 @@ Database: SQLite3
 📸 Screenshots & Demo
 Watch the Demo Video
 
-[![Watch the video](https://youtu.be/uzqNCYYtfGQ)
+[![Watch the video](https://img.youtube.com/vi/uzqNCYYtfGQ/0.jpg)](https://youtu.be/uzqNCYYtfGQ)
