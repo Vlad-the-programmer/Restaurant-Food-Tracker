@@ -25,4 +25,4 @@ Database: SQLite3
 📸 Screenshots & Demo
 Watch the Demo Video
 
-[![Watch the video](https://raw.githubusercontent.com/Vlad-the-programmer/Restaurant-Food-Tracker/main/screenshots/video-thumbnail.png)](https://github.com/Vlad-the-programmer/Restaurant-Food-Tracker/blob/main/VideoTests/test.mp4?raw=true)
+[![Watch the video](https://youtu.be/uzqNCYYtfGQ)
