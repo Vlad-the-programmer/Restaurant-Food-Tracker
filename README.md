@@ -19,6 +19,7 @@ Admin Capabilities
 
 🛠️ Technologies Used
 Backend: Django
+Frontend HTML5/CSS3
 Database: SQLite3
 
 📸 Screenshots & Demo
